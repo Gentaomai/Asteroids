@@ -5,7 +5,8 @@ CMyGame::CMyGame(void)
 {
 	score = 0;
 	level = 1;
-	lives = 3;
+	//the player has 4 lives
+	lives = 4;
 	gamewon=false;
 
 }
